@@ -1,4 +1,7 @@
-# Generating ASCII directory trees in Python 
+<p align='center'>
+  <img src='https://github.com/JoshuaKasa/FASO/assets/87675824/13b163e9-e76e-477c-9633-186d82a7cb2b' widht='248' height='248'> <br>
+  <b><i>FASO, generating ASCII directory trees in Python</i></b>
+</p>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -19,7 +22,7 @@ You can install FASO by downloading the source code from this repository and run
 
 To use FASO, simply run the following command in your terminal:
 
-```cmd
+```console
 usage: faso.py [-h] [--extension EXTENSION] [--depth DEPTH] [--color] [--permissions] [--human-readable] [--log LOG] [--log-level {DEBUG,INFO,WARNING,ERROR,CRITICAL}] directory
 
 Generate a directory tree in ASCII format.
